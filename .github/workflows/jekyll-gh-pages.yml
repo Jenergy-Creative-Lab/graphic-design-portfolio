@@ -1,0 +1,11 @@
+title: My Chic Jekyll Site
+theme: minima
+sass:
+  sass_dir: _sass
+  style: compressed
+
+minima:
+  skin: classic
+  social_links:
+    github: Jenergy-Creative-Lab
+    linkedin:
